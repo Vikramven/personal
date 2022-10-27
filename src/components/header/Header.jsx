@@ -13,14 +13,16 @@ const Header = () => {
         <CTA/>
         <Socials/>
 
-        <div className="icons">
-          <img src={ME} alt='My Picture' className='container vikram'/>
+        <div className='my' >
+          <img src={ME} alt='me'/>
         </div>
 
         <a href="#contact" className='scroll_down'>Scroll Down</a>
       </div>
     </header>
   )
+
+  
 }
 
 export default Header
