@@ -64,6 +64,8 @@
 .experience_content{
     padding-top: 3rem;
     padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
     color: var(--color-bg-primary-variant);
 }
 .experience_image{

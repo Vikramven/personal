@@ -10,15 +10,15 @@ const footer = () => {
 
       <ul className='goto_links'>
         <li> <a href="#">Home</a>  </li>
-        <li> <a href="#">About</a>  </li>
-        <li> <a href="#">Experience</a>  </li>
-        <li> <a href="#">Contact</a>  </li>
+        <li> <a href="#about">About</a>  </li>
+        <li> <a href="#experience">Experience</a>  </li>
+        <li> <a href="#contact">Contact</a>  </li>
       </ul>
 
       <div className="footer_socials">
         <a href=""><AiFillMail/></a>
-        <a href=""><BsInstagram/></a>
-        <a href=""><BsLinkedin/></a>
+        <a href="https://www.instagram.com/vikramvenkt/"><BsInstagram/></a>
+        <a href="https://www.linkedin.com/in/vikram-venkat/"><BsLinkedin/></a>
       </div>
 
       <div className="footer_copyright">
